@@ -11,6 +11,6 @@ specs:
 * input: 50
 * output: current balance: 350
 
-# Behavior: enter withdrawl amount and subtracts from current balance.
+# Behavior: enter withdrawal amount and subtracts from current balance.
 * input: 100
 * output: current balance: 250

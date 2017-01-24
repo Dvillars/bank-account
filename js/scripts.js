@@ -5,7 +5,7 @@ $(document).ready(function() {
     var intialDeposit = $('#init-deposit').val();
     $('#result').text("");
     $("h2").prepend(accountName + "'s ")
-
+    $("#result").append(intialDeposit)
   });
 
   $("form#change-account").submit(function(event) {
